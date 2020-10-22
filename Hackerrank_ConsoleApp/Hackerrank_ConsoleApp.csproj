@@ -48,9 +48,12 @@
     <Compile Include="Bill_Division.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="Breaking_the_Records.cs" />
+    <Compile Include="Counting_Valleys.cs" />
     <Compile Include="Day_of_the_Programmer.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="Divisible_Sum_Pairs.cs" />
+    <Compile Include="Drawing_Book.cs" />
+    <Compile Include="Forming_A_Magic_Square.cs" />
     <Compile Include="GoodlandElectricity.cs" />
     <Compile Include="GradingStudents.cs" />
     <Compile Include="Migratory_Birds.cs" />
@@ -60,7 +63,9 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseShuffleMerge.cs" />
+    <Compile Include="Sales_by_Match.cs" />
     <Compile Include="Staircase.cs" />
+    <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
     <Compile Include="TimeConversion.cs" />
   </ItemGroup>

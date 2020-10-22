@@ -60,8 +60,23 @@ namespace Hackerrank_ConsoleApp
             //Day_of_the_Programmer day_Of_The_Programmer = new Day_of_the_Programmer();
             //day_Of_The_Programmer.Main();
 
-            Bill_Division bill_Division = new Bill_Division();
-            bill_Division.Main();
+            //Bill_Division bill_Division = new Bill_Division();
+            //bill_Division.Main();
+
+            //Sales_by_Match sales_By_Match = new Sales_by_Match();
+            //sales_By_Match.Main();
+
+            //Forming_A_Magic_Square forming_A_Magic_Square = new Forming_A_Magic_Square();
+            //forming_A_Magic_Square.Main();
+
+            //Drawing_Book drawing_Book = new Drawing_Book();
+            //drawing_Book.Main();
+
+            //Counting_Valleys counting_Valleys = new Counting_Valleys();
+            //counting_Valleys.Main();
+
+            Strange_Counter strange_Counter = new Strange_Counter();
+            strange_Counter.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
