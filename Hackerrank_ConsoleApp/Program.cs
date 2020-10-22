@@ -51,8 +51,17 @@ namespace Hackerrank_ConsoleApp
             //Sub_array_Division sub_Array_Division = new Sub_array_Division();
             //sub_Array_Division.Main();
 
-            Divisible_Sum_Pairs divisible_Sum_Pairs = new Divisible_Sum_Pairs();
-            divisible_Sum_Pairs.Main();
+            //Divisible_Sum_Pairs divisible_Sum_Pairs = new Divisible_Sum_Pairs();
+            //divisible_Sum_Pairs.Main();
+
+            //Migratory_Birds migratory_Birds = new Migratory_Birds();
+            //migratory_Birds.Main();
+
+            //Day_of_the_Programmer day_Of_The_Programmer = new Day_of_the_Programmer();
+            //day_Of_The_Programmer.Main();
+
+            Bill_Division bill_Division = new Bill_Division();
+            bill_Division.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
