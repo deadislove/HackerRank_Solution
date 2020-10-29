@@ -75,8 +75,35 @@ namespace Hackerrank_ConsoleApp
             //Counting_Valleys counting_Valleys = new Counting_Valleys();
             //counting_Valleys.Main();
 
-            Strange_Counter strange_Counter = new Strange_Counter();
-            strange_Counter.Main();
+            //Strange_Counter strange_Counter = new Strange_Counter();
+            //strange_Counter.Main();
+
+            //Electronics_Shop electronics_Shop = new Electronics_Shop();
+            //electronics_Shop.Main();
+
+            //Cats_And_A_Mouse cats_And_A_Mouse = new Cats_And_A_Mouse();
+            //cats_And_A_Mouse.Main();
+
+            //PickingNumbers pickingNumbers = new PickingNumbers();
+            //pickingNumbers.Main();
+
+            //Climbing_The_Leaderboard climbing_The_Leaderboard = new Climbing_The_Leaderboard();
+            //climbing_The_Leaderboard.Main();
+
+            //The_Hurdle_Race the_Hurdle_Race = new The_Hurdle_Race();
+            //the_Hurdle_Race.Main();
+
+            //Designer_PDF_Viewer designer_PDF_Viewer = new Designer_PDF_Viewer();
+            //designer_PDF_Viewer.Main();
+
+            //Utopian_Tree utopian_Tree = new Utopian_Tree();
+            //utopian_Tree.Main();
+
+            //Angry_Professor angry_Professor = new Angry_Professor();
+            //angry_Professor.Main();
+
+            Beautiful_Days_At_The_Movies beautiful_Days_At_The_Movies = new Beautiful_Days_At_The_Movies();
+            beautiful_Days_At_The_Movies.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();

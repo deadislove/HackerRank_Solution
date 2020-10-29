@@ -43,22 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Angry_Professor.cs" />
     <Compile Include="Apple-and-Orange.cs" />
+    <Compile Include="Beautiful_Days_At_The_Movies.cs" />
     <Compile Include="Between_Two_Sets.cs" />
     <Compile Include="Bill_Division.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="Breaking_the_Records.cs" />
+    <Compile Include="Cats_And_A_Mouse.cs" />
+    <Compile Include="Climbing_The_Leaderboard.cs" />
     <Compile Include="Counting_Valleys.cs" />
     <Compile Include="Day_of_the_Programmer.cs" />
+    <Compile Include="Designer_PDF_Viewer.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="Divisible_Sum_Pairs.cs" />
     <Compile Include="Drawing_Book.cs" />
+    <Compile Include="Electronics_Shop.cs" />
     <Compile Include="Forming_A_Magic_Square.cs" />
     <Compile Include="GoodlandElectricity.cs" />
     <Compile Include="GradingStudents.cs" />
     <Compile Include="Migratory_Birds.cs" />
     <Compile Include="Mini-Max_Sum.cs" />
     <Compile Include="Number_Line_Jumps.cs" />
+    <Compile Include="PickingNumbers.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,7 +74,9 @@
     <Compile Include="Staircase.cs" />
     <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
+    <Compile Include="The_Hurdle_Race.cs" />
     <Compile Include="TimeConversion.cs" />
+    <Compile Include="Utopian_Tree.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
