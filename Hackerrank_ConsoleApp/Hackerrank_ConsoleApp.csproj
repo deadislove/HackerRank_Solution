@@ -51,6 +51,7 @@
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="Breaking_the_Records.cs" />
     <Compile Include="Cats_And_A_Mouse.cs" />
+    <Compile Include="Circular_Array_Rotation.cs" />
     <Compile Include="Climbing_The_Leaderboard.cs" />
     <Compile Include="Counting_Valleys.cs" />
     <Compile Include="Day_of_the_Programmer.cs" />
@@ -71,12 +72,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseShuffleMerge.cs" />
     <Compile Include="Sales_by_Match.cs" />
+    <Compile Include="Save_The_Prisoner.cs" />
     <Compile Include="Staircase.cs" />
     <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
     <Compile Include="The_Hurdle_Race.cs" />
     <Compile Include="TimeConversion.cs" />
     <Compile Include="Utopian_Tree.cs" />
+    <Compile Include="Viral_Advertising.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
