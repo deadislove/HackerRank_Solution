@@ -111,8 +111,26 @@ namespace Hackerrank_ConsoleApp
             //Save_The_Prisoner save_The_Prisoner = new Save_The_Prisoner();
             //save_The_Prisoner.Main();
 
-            Circular_Array_Rotation circular_Array_Rotation = new Circular_Array_Rotation();
-            circular_Array_Rotation.Main();
+            //Circular_Array_Rotation circular_Array_Rotation = new Circular_Array_Rotation();
+            //circular_Array_Rotation.Main();
+
+            //Sequence_Equation sequence_Equation = new Sequence_Equation();
+            //sequence_Equation.Main();
+
+            //Jumping_On_The_Clouds_Revisited jumping_On_The_Clouds_Revisited = new Jumping_On_The_Clouds_Revisited();
+            //jumping_On_The_Clouds_Revisited.Main();
+
+            //Find_Digits find_Digits = new Find_Digits();
+            //find_Digits.Main();
+
+            //Extra_Long_Factorials extra_Long_Factorials = new Extra_Long_Factorials();
+            //extra_Long_Factorials.Main();
+
+            //Append_And_Delete append_And_Delete = new Append_And_Delete();
+            //append_And_Delete.Main();
+
+            Sherlock_And_Squares sherlock_And_Squares = new Sherlock_And_Squares();
+            sherlock_And_Squares.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
