@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Angry_Professor.cs" />
+    <Compile Include="Append_And_Delete.cs" />
     <Compile Include="Apple-and-Orange.cs" />
     <Compile Include="Beautiful_Days_At_The_Movies.cs" />
     <Compile Include="Between_Two_Sets.cs" />
@@ -60,9 +62,12 @@
     <Compile Include="Divisible_Sum_Pairs.cs" />
     <Compile Include="Drawing_Book.cs" />
     <Compile Include="Electronics_Shop.cs" />
+    <Compile Include="Extra_Long_Factorials.cs" />
+    <Compile Include="Find_Digits.cs" />
     <Compile Include="Forming_A_Magic_Square.cs" />
     <Compile Include="GoodlandElectricity.cs" />
     <Compile Include="GradingStudents.cs" />
+    <Compile Include="Jumping_On_The_Clouds_Revisited.cs" />
     <Compile Include="Migratory_Birds.cs" />
     <Compile Include="Mini-Max_Sum.cs" />
     <Compile Include="Number_Line_Jumps.cs" />
@@ -73,6 +78,8 @@
     <Compile Include="ReverseShuffleMerge.cs" />
     <Compile Include="Sales_by_Match.cs" />
     <Compile Include="Save_The_Prisoner.cs" />
+    <Compile Include="Sequence_Equation.cs" />
+    <Compile Include="Sherlock_And_Squares.cs" />
     <Compile Include="Staircase.cs" />
     <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
