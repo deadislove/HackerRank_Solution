@@ -102,11 +102,22 @@ namespace Hackerrank_ConsoleApp
             //Angry_Professor angry_Professor = new Angry_Professor();
             //angry_Professor.Main();
 
-            Beautiful_Days_At_The_Movies beautiful_Days_At_The_Movies = new Beautiful_Days_At_The_Movies();
-            beautiful_Days_At_The_Movies.Main();
+            //Beautiful_Days_At_The_Movies beautiful_Days_At_The_Movies = new Beautiful_Days_At_The_Movies();
+            //beautiful_Days_At_The_Movies.Main();
+
+            //Viral_Advertising viral_Advertising = new Viral_Advertising();
+            //viral_Advertising.Main();
+
+            //Save_The_Prisoner save_The_Prisoner = new Save_The_Prisoner();
+            //save_The_Prisoner.Main();
+
+            Circular_Array_Rotation circular_Array_Rotation = new Circular_Array_Rotation();
+            circular_Array_Rotation.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
         }
+
+        
     }
 }
