@@ -129,8 +129,26 @@ namespace Hackerrank_ConsoleApp
             //Append_And_Delete append_And_Delete = new Append_And_Delete();
             //append_And_Delete.Main();
 
-            Sherlock_And_Squares sherlock_And_Squares = new Sherlock_And_Squares();
-            sherlock_And_Squares.Main();
+            //Sherlock_And_Squares sherlock_And_Squares = new Sherlock_And_Squares();
+            //sherlock_And_Squares.Main();
+
+            //Library_Fine library_Fine = new Library_Fine();
+            //library_Fine.Main();
+
+            //Cut_The_Sticks cut_The_Sticks = new Cut_The_Sticks();
+            //cut_The_Sticks.Main();
+
+            //Non_Divisible_Subset non_Divisible_Subset = new Non_Divisible_Subset();
+            //non_Divisible_Subset.Main();
+
+            //Repeated_String repeated_String = new Repeated_String();
+            //repeated_String.Main();
+
+            //Jumping_On_The_Clouds jumping_On_The_Clouds = new Jumping_On_The_Clouds();
+            //jumping_On_The_Clouds.Main();
+
+            Equalize_The_Array equalize_The_Array = new Equalize_The_Array();
+            equalize_The_Array.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
