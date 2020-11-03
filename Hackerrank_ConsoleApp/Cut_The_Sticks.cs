@@ -23,8 +23,11 @@ namespace Hackerrank_ConsoleApp
         static int[] cutTheSticks(int[] arr)
         {
             Array.Sort(arr);
-            List<int> result = new List<int>();
-            result.Add(arr.Length);
+            List<int> result = new List<int>
+            {
+                arr.Length
+            };
+
             int iMin = arr[0];
             
             for (int i = 0; i < arr.Length; i++)

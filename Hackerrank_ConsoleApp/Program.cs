@@ -147,8 +147,14 @@ namespace Hackerrank_ConsoleApp
             //Jumping_On_The_Clouds jumping_On_The_Clouds = new Jumping_On_The_Clouds();
             //jumping_On_The_Clouds.Main();
 
-            Equalize_The_Array equalize_The_Array = new Equalize_The_Array();
-            equalize_The_Array.Main();
+            //Equalize_The_Array equalize_The_Array = new Equalize_The_Array();
+            //equalize_The_Array.Main();
+
+            //Queens_Attack_II queens_Attack_II = new Queens_Attack_II();
+            //queens_Attack_II.Main();
+
+            ACM_ICPC_Team aCM_ICPC_Team = new ACM_ICPC_Team();
+            aCM_ICPC_Team.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
