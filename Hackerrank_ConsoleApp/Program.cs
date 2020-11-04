@@ -153,8 +153,17 @@ namespace Hackerrank_ConsoleApp
             //Queens_Attack_II queens_Attack_II = new Queens_Attack_II();
             //queens_Attack_II.Main();
 
-            ACM_ICPC_Team aCM_ICPC_Team = new ACM_ICPC_Team();
-            aCM_ICPC_Team.Main();
+            //ACM_ICPC_Team aCM_ICPC_Team = new ACM_ICPC_Team();
+            //aCM_ICPC_Team.Main();
+
+            //Taum_And_B_day taum_And_B_Day = new Taum_And_B_day();
+            //taum_And_B_Day.Main();
+
+            //Organizing_Containers_Of_Balls organizing_Containers_Of_Balls = new Organizing_Containers_Of_Balls();
+            //organizing_Containers_Of_Balls.Main();
+
+            Encryption encryption = new Encryption();
+            encryption.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();

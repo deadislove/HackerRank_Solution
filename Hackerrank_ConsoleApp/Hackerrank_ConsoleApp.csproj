@@ -64,6 +64,7 @@
     <Compile Include="Divisible_Sum_Pairs.cs" />
     <Compile Include="Drawing_Book.cs" />
     <Compile Include="Electronics_Shop.cs" />
+    <Compile Include="Encryption.cs" />
     <Compile Include="Equalize_The_Array.cs" />
     <Compile Include="Extra_Long_Factorials.cs" />
     <Compile Include="Find_Digits.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="Mini-Max_Sum.cs" />
     <Compile Include="Non-Divisible_Subset.cs" />
     <Compile Include="Number_Line_Jumps.cs" />
+    <Compile Include="Organizing_Containers_Of_Balls.cs" />
     <Compile Include="PickingNumbers.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="Program.cs" />
@@ -91,6 +93,7 @@
     <Compile Include="Staircase.cs" />
     <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
+    <Compile Include="Taum_And_B_day.cs" />
     <Compile Include="The_Hurdle_Race.cs" />
     <Compile Include="TimeConversion.cs" />
     <Compile Include="Utopian_Tree.cs" />
