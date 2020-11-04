@@ -50,6 +50,7 @@
     <Compile Include="Apple-and-Orange.cs" />
     <Compile Include="Beautiful_Days_At_The_Movies.cs" />
     <Compile Include="Between_Two_Sets.cs" />
+    <Compile Include="Bigger_Is_Greater.cs" />
     <Compile Include="Bill_Division.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="Breaking_the_Records.cs" />
