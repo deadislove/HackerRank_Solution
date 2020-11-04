@@ -162,13 +162,14 @@ namespace Hackerrank_ConsoleApp
             //Organizing_Containers_Of_Balls organizing_Containers_Of_Balls = new Organizing_Containers_Of_Balls();
             //organizing_Containers_Of_Balls.Main();
 
-            Encryption encryption = new Encryption();
-            encryption.Main();
+            //Encryption encryption = new Encryption();
+            //encryption.Main();
+
+            Bigger_Is_Greater bigger_Is_Greater = new Bigger_Is_Greater();
+            bigger_Is_Greater.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
         }
-
-        
     }
 }
