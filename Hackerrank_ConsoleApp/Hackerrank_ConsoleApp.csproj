@@ -44,11 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ACM_ICPC_Team.cs" />
     <Compile Include="Angry_Professor.cs" />
     <Compile Include="Append_And_Delete.cs" />
     <Compile Include="Apple-and-Orange.cs" />
     <Compile Include="Beautiful_Days_At_The_Movies.cs" />
     <Compile Include="Between_Two_Sets.cs" />
+    <Compile Include="Bigger_Is_Greater.cs" />
     <Compile Include="Bill_Division.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="Breaking_the_Records.cs" />
@@ -56,25 +58,34 @@
     <Compile Include="Circular_Array_Rotation.cs" />
     <Compile Include="Climbing_The_Leaderboard.cs" />
     <Compile Include="Counting_Valleys.cs" />
+    <Compile Include="Cut_The_Sticks.cs" />
     <Compile Include="Day_of_the_Programmer.cs" />
     <Compile Include="Designer_PDF_Viewer.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="Divisible_Sum_Pairs.cs" />
     <Compile Include="Drawing_Book.cs" />
     <Compile Include="Electronics_Shop.cs" />
+    <Compile Include="Encryption.cs" />
+    <Compile Include="Equalize_The_Array.cs" />
     <Compile Include="Extra_Long_Factorials.cs" />
     <Compile Include="Find_Digits.cs" />
     <Compile Include="Forming_A_Magic_Square.cs" />
     <Compile Include="GoodlandElectricity.cs" />
     <Compile Include="GradingStudents.cs" />
+    <Compile Include="Jumping_On_The_Clouds.cs" />
     <Compile Include="Jumping_On_The_Clouds_Revisited.cs" />
+    <Compile Include="Library_Fine.cs" />
     <Compile Include="Migratory_Birds.cs" />
     <Compile Include="Mini-Max_Sum.cs" />
+    <Compile Include="Non-Divisible_Subset.cs" />
     <Compile Include="Number_Line_Jumps.cs" />
+    <Compile Include="Organizing_Containers_Of_Balls.cs" />
     <Compile Include="PickingNumbers.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Queens_Attack_II.cs" />
+    <Compile Include="Repeated_String.cs" />
     <Compile Include="ReverseShuffleMerge.cs" />
     <Compile Include="Sales_by_Match.cs" />
     <Compile Include="Save_The_Prisoner.cs" />
@@ -83,6 +94,7 @@
     <Compile Include="Staircase.cs" />
     <Compile Include="Strange_Counter.cs" />
     <Compile Include="Sub_array_Division.cs" />
+    <Compile Include="Taum_And_B_day.cs" />
     <Compile Include="The_Hurdle_Race.cs" />
     <Compile Include="TimeConversion.cs" />
     <Compile Include="Utopian_Tree.cs" />
