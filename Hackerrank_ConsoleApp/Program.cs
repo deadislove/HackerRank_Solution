@@ -165,8 +165,29 @@ namespace Hackerrank_ConsoleApp
             //Encryption encryption = new Encryption();
             //encryption.Main();
 
-            Bigger_Is_Greater bigger_Is_Greater = new Bigger_Is_Greater();
-            bigger_Is_Greater.Main();
+            //Bigger_Is_Greater bigger_Is_Greater = new Bigger_Is_Greater();
+            //bigger_Is_Greater.Main();
+
+            //Modified_Kaprekar_Numbers modified_Kaprekar_Numbers = new Modified_Kaprekar_Numbers();
+            //modified_Kaprekar_Numbers.Main();
+
+            //Beautiful_Triplets beautiful_Triplets = new Beautiful_Triplets();
+            //beautiful_Triplets.Main();
+
+            //Minimum_Distances minimum_Distances = new Minimum_Distances();
+            //minimum_Distances.Main();
+
+            //Halloween_Sale halloween_Sale = new Halloween_Sale();
+            //halloween_Sale.Main();
+
+            //The_Time_In_Words the_Time_In_Words = new The_Time_In_Words();
+            //the_Time_In_Words.Main();
+
+            //Chocolate_Feast chocolate_Feast = new Chocolate_Feast();
+            //chocolate_Feast.Main();
+
+            Service_Lane service_Lane = new Service_Lane();
+            service_Lane.Main();
 
             Console.WriteLine("END");
             Console.ReadKey();
